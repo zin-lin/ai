@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057881597714",
+    "project_id": "annexai-f312a",
+    "storage_bucket": "annexai-f312a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057881597714:android:42093064d50c3873d435cb",
+        "android_client_info": {
+          "package_name": "com.annex.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057881597714-2jbpcvqhnf69t50btudier9p7qomf7oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL30viLoiv4TJyD9HoLC93BtDV_5eGT94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057881597714-2jbpcvqhnf69t50btudier9p7qomf7oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
