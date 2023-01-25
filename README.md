@@ -9,3 +9,7 @@ A new Flutter project.
 
 This project is to learn the cross-platform abilities of Flutter and integrat it with AI with OOP concept in Google Dart.
 
+## Features
+- Set up AI
+- Push better support
+- Emulates what `Talking` Tom or `REPLICAs` could do
